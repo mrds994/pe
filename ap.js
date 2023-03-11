@@ -407,7 +407,7 @@ footer: `global.author © 2023`},
 break
 case 'tsel':{
 let tekssss = `
-╔═══════✪ ❤️ Ovo 
+╔═══════✪ ❤️ Tsel
 ╠.  Ini Adalah Nomer Dana Saya
 ╠ ❐ : -
 ╠.  
@@ -610,7 +610,7 @@ return ardian.reply(`╔═══════✪ 𝘽𝙐𝙂 𝙀𝙈𝙊𝙅�
 ╠➥ .❄️ contoh 62xxxxxx
 ╠➥ .🍄 contoh 62xxxxxx
 ╚═════════════✪
-© 𝘼𝙕𝙍𝙄𝙇 𝙏𝙕𝙔⚡`)
+© MrDs`)
 }
 break
 case 'verify':{
@@ -621,7 +621,7 @@ return ardian.reply(`╔═══════✪ 𝘽𝙐𝙂 𝙑𝙀𝙍𝙄�
 ╠➥ .logout  contoh 62xxxxxx 
 ╠➥ .kenon  contoh 62xxxxxx 
 ╚═════════════✪
-© 𝘼𝙕𝙍𝙄𝙇 𝙏𝙕𝙔⚡`)
+© MrDs`)
 }
 break
 case 'bugattack':{
@@ -640,7 +640,7 @@ return ardian.reply(`╔═══════✪ 𝘽𝙐𝙂 𝘼𝙏𝙏𝘼�
 ╠➥ .korut contoh 62xxxxxx
 ╠➥ .rbug contoh 62xxxxxx
 ╚═════════════✪
-© 𝘼𝙕𝙍𝙄𝙇 𝙏𝙕𝙔⚡`)
+© MrDs`)
 }
 break
 case 'bugg':{
@@ -651,7 +651,7 @@ return ardian.reply(`╔═══════✪ 𝘽𝙐𝙂 𝙂𝘾
 ╠➥ .santetgc Link Group.ꫂ 
 ╠➥ .peranggc Link Group.ꫂ 
 ╚═════════════✪
-© 𝘼𝙕𝙍𝙄𝙇 𝙏𝙕𝙔⚡`)
+© MrDs`)
 }
 break
 case 'dmnu':{
@@ -661,7 +661,7 @@ return ardian.reply(`╔═══════✪ DOWNLOADER
 ╠➥ ytmp3 [link]
 ╠➥ ytmp4 [link]
 ╚═════════════✪
-© 𝘼𝙕𝙍𝙄𝙇 𝙏𝙕𝙔⚡`)
+© MrDs`)
 }
 break
 case 'groupmenu':{
@@ -676,7 +676,7 @@ return ardian.reply(`╔═══════✪ MENU GRUP
 ╠➥ tagall [text]
 ╠➥ join/jn [link]
 ╚═════════════✪
-© 𝘼𝙕𝙍𝙄𝙇 𝙏𝙕𝙔⚡`)
+© MrDs`)
 }
 break
 case 'tiktok':
@@ -4174,7 +4174,7 @@ templateButtons: [
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
-{ urlButton: { displayText: `🌷EMOJI🌷`, url: `https://www.whatsapp.com/otp/copy/`}},
+{ urlButton: { displayText: `🌷EMOJI??`, url: `https://www.whatsapp.com/otp/copy/`}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
@@ -10510,7 +10510,7 @@ templateButtons: [
   { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
 { urlButton: { displayText: `🌷EMOJI🌷`, url: `https://www.whatsapp.com/otp/copy/`}},
-{ quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
+{ quickReplyButton: { displayText: `??EMOJI🌷`, id: ``}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
@@ -12784,7 +12784,7 @@ templateButtons: [
 { urlButton: { displayText: `🌷EMOJI🌷`, url: `https://www.whatsapp.com/otp/copy/`}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
-{ callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
+{ callButton: { displayText: `🌷EMOJI??`, phoneNumber: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
 { urlButton: { displayText: `🌷EMOJI🌷`, url: `https://www.whatsapp.com/otp/copy/`}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
@@ -14300,7 +14300,7 @@ templateButtons: [
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
-{ callButton: { displayText: `🌷EMOJI🌷`, phoneNumber: ``}},
+{ callButton: { displayText: `??EMOJI🌷`, phoneNumber: ``}},
 { urlButton: { displayText: `🌷EMOJI🌷`, url: `https://www.whatsapp.com/otp/copy/`}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
 { quickReplyButton: { displayText: `🌷EMOJI🌷`, id: ``}},
